@@ -1,0 +1,142 @@
+I:\Z-四连杆改造\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.dll
+I:\Z-四连杆改造\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.pdb
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+I:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.dll
+I:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.pdb
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csprojAssemblyReference.cache
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.dll
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.pdb
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+G:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.dll
+G:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.IF.pdb
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csprojAssemblyReference.cache
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\Plugins\Plugin.IF.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\Plugins\Plugin.IF.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+C:\Users\MTS\Desktop\VM2\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+C:\Users\MTS\Desktop\VM2\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+C:\Vision\5.06\1\VM\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+C:\Vision\5.06\1\VM\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+C:\Vision\5.11\2\VM\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+C:\Vision\5.11\2\VM\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.AssemblyReference.cache
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\备份\6.02\4\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\备份\6.02\4\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\备份\6.13\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.AssemblyReference.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\备份\6.24\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\备份\6.24\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\备份\6.25\1\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\备份\6.25\1\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\备份\7.01\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.dll
+D:\备份\7.01\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.IF.pdb
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.IF.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.IF.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.IFForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.dll
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.IF\obj\Debug\Plugin.IF.csproj.AssemblyReference.cache

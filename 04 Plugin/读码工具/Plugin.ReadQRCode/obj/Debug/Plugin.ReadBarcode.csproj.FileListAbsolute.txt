@@ -1,0 +1,9 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ReadBarcode.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ReadBarcode.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.ReadBarcodeForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.dll
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadBarcode\obj\Debug\Plugin.ReadBarcode.pdb

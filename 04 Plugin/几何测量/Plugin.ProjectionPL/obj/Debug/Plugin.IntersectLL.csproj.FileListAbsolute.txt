@@ -1,0 +1,11 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.IntersectLL.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.IntersectLL.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.IntersectLLForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.dll
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.IntersectLL\obj\Debug\Plugin.IntersectLL.csproj.AssemblyReference.cache

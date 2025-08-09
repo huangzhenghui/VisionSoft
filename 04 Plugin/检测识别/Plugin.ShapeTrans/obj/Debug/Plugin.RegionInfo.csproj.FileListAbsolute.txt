@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.RegionInfo.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.RegionInfo.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.RegionInfoForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.RegionInfo\obj\Debug\Plugin.RegionInfo.csproj.AssemblyReference.cache

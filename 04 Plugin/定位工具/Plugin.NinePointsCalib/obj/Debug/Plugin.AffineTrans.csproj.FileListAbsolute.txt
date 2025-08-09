@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.AffineTrans.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.AffineTrans.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.AffineTransForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.dll
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.AffineTrans\obj\Debug\Plugin.AffineTrans.csproj.AssemblyReference.cache

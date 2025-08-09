@@ -1,0 +1,7 @@
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.CameraBasler.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.CameraBasler.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.CameraBasler.csproj.CopyComplete
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb

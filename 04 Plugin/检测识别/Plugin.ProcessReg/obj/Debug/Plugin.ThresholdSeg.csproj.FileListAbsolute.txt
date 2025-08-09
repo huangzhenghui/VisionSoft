@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ThresholdSeg.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ThresholdSeg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ThresholdSeg\obj\Debug\Plugin.ThresholdSeg.ThresholdSegForm.resources

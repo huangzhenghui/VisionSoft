@@ -1,0 +1,109 @@
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\00 Exe\Plugins\Plugin.SendData.dll
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\00 Exe\Plugins\Plugin.SendData.pdb
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+G:\Z-四连杆改造\RexVision V 1.5.0 A\00 Exe\Plugins\Plugin.SendData.dll
+G:\Z-四连杆改造\RexVision V 1.5.0 A\00 Exe\Plugins\Plugin.SendData.pdb
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csprojAssemblyReference.cache
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+G:\Z-四连杆改造\RexVision V 1.5.0 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+I:\Z-四连杆改造\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.dll
+I:\Z-四连杆改造\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.pdb
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csprojAssemblyReference.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+I:\Z-四连杆改造\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+I:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.dll
+I:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.pdb
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csprojAssemblyReference.cache
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+I:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.dll
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.pdb
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+G:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.dll
+G:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.SendData.pdb
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csprojAssemblyReference.cache
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+G:\RexVision V 1.5.2 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\Plugins\Plugin.SendData.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\Plugins\Plugin.SendData.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.AssemblyReference.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\Plugins\Plugin.SendData.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\Plugins\Plugin.SendData.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.AssemblyReference.cache
+D:\原始版本\RVision 20220422\00 Exe\Plugins\Plugin.SendData.dll
+D:\原始版本\RVision 20220422\00 Exe\Plugins\Plugin.SendData.pdb
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+D:\原始版本\RVision 20220422\04 Plugin\通信工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.AssemblyReference.cache
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SendData.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SendData.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.AssemblyReference.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SendData.dll
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SendData.pdb
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CopyComplete
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\Plugins\Plugin.SendData.dll
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\Plugins\Plugin.SendData.pdb
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.SendDataForm.resources
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.csproj.CopyComplete
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.dll
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\通讯工具\Plugin.SendData\obj\Debug\Plugin.SendData.pdb

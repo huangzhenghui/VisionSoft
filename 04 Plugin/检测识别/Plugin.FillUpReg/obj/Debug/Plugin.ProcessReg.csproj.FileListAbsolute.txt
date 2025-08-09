@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ProcessReg.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ProcessReg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.ProcessRegForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ProcessReg\obj\Debug\Plugin.ProcessReg.pdb

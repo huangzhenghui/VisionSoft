@@ -1,0 +1,11 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.ConnectRegForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ConnectReg.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ConnectReg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ConnectReg\obj\Debug\Plugin.ConnectReg.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ReadQRCode.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ReadQRCode.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.ReadQRCodeForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.dll
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.ReadQRCode\obj\Debug\Plugin.ReadQRCode.pdb

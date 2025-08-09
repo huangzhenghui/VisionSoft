@@ -1,0 +1,9 @@
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.csproj.AssemblyReference.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.BreakForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.Break.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.Break.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.dll
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.Break\obj\Debug\Plugin.Break.pdb

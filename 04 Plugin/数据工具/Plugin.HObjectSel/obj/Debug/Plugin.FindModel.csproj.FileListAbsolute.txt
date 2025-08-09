@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.FindModel.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.FindModel.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.FindModelForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.dll
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.FindModel\obj\Debug\Plugin.FindModel.pdb

@@ -1,0 +1,155 @@
+I:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.ForEnd.dll
+I:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.ForEnd.pdb
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+I:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.ForEnd.dll
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.ForEnd.pdb
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+E:\RexVision\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+G:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.ForEnd.dll
+G:\RexVision V 1.5.2 A\00 Exe\Plugins\Plugin.ForEnd.pdb
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+G:\RexVision V 1.5.2 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\Plugins\Plugin.ForEnd.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\Plugins\Plugin.ForEnd.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+C:\Users\MTS\Desktop\VM2\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+C:\Users\MTS\Desktop\VM2\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+C:\Users\MTS\Desktop\VM2\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+C:\Vision\5.06\1\VM\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+C:\Vision\5.06\1\VM\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+C:\Vision\5.06\1\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+C:\Vision\5.11\2\VM\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+C:\Vision\5.11\2\VM\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+C:\Vision\5.11\2\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.AssemblyReference.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\备份\6.02\4\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\备份\6.02\4\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\备份\6.13\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.AssemblyReference.cache
+D:\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\备份\6.24\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\备份\6.24\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\备份\6.24\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\备份\6.25\1\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\备份\6.25\1\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\备份\6.25\1\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\备份\7.01\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\备份\7.01\2\VisionSoft\RVision 20220422\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\备份\7.01\2\VisionSoft\RVision 20220422\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.AssemblyReference.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\HTimer.cs
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\Plugins\HTimer.cs
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ForEnd.dll
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ForEnd.pdb
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.AssemblyReference.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CopyComplete
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+D:\MyDevelopment\VisionSoft\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\Plugins\HTimer.cs
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\Plugins\Plugin.ForEnd.dll
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\Plugins\Plugin.ForEnd.pdb
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.ForEndForm.resources
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.csproj.CopyComplete
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.dll
+C:\Users\Administrator\Desktop\VisionSoft\04 Plugin\逻辑工具\Plugin.ForEnd\obj\Debug\Plugin.ForEnd.pdb

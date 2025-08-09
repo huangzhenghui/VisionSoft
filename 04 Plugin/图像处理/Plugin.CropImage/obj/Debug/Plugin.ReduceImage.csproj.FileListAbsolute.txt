@@ -1,0 +1,9 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ReduceImage.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ReduceImage.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.ReduceImageForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.dll
+D:\VisionSoft\VisionSoft\04 Plugin\图像处理\Plugin.ReduceImage\obj\Debug\Plugin.ReduceImage.pdb

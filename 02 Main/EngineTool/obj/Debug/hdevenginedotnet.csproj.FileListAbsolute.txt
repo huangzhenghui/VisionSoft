@@ -1,0 +1,7 @@
+C:\Users\琴尘\Desktop\新建文件夹\obj\Debug\hdevenginedotnet.csproj.CoreCompileInputs.cache
+C:\Users\琴尘\Desktop\新建文件夹\obj\Debug\hdevenginedotnet.csproj.CopyComplete
+C:\Users\琴尘\Desktop\新建文件夹\bin\Debug\EngineTool.dll
+C:\Users\琴尘\Desktop\新建文件夹\bin\Debug\EngineTool.pdb
+C:\Users\琴尘\Desktop\新建文件夹\obj\Debug\EngineTool.dll
+C:\Users\琴尘\Desktop\新建文件夹\obj\Debug\EngineTool.pdb
+C:\Users\琴尘\Desktop\新建文件夹\bin\Debug\visiondotnet.dll

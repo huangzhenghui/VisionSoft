@@ -1,0 +1,219 @@
+E:\MyVision\Plugin.cameras.basler\bin\Debug\Plugin.cameras.basler.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\Plugin.cameras.basler.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\Basler.Pylon.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\MyVision.exe
+E:\MyVision\Plugin.cameras.basler\bin\Debug\VisionCore.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\visiondotnet.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\myshowControl.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\DataGridView_ex.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\CPublicDefine.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\Helper.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\NPOI.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\NPOI.OOXML.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\VisionCore.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\Basler.Pylon.xml
+E:\MyVision\Plugin.cameras.basler\bin\Debug\myshowControl.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\DataGridView_ex.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\CPublicDefine.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\CommunicationControlLibrary.dll
+E:\MyVision\Plugin.cameras.basler\bin\Debug\CommunicationControlLibrary.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\MyVision.pdb
+E:\MyVision\Plugin.cameras.basler\bin\Debug\Helper.pdb
+E:\MyVision\000_exe\cam\Plugin.cameras.basler.dll
+E:\MyVision\000_exe\cam\Plugin.cameras.basler.pdb
+E:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+E:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+E:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojResolveAssemblyReference.cache
+E:\培训班项目\MyVision\000_exe\cam\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision\000_exe\cam\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+F:\MyVision\000_exe\cam\Plugin.cameras.basler.dll
+F:\MyVision\000_exe\cam\Plugin.cameras.basler.pdb
+F:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+F:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+F:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+F:\MyVision\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.4\000_exe\cam\Plugin.cameras.basler.dll
+F:\MyVision-\MyVision V2.4\000_exe\cam\Plugin.cameras.basler.pdb
+F:\MyVision-\MyVision V2.4\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.4\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.4\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+F:\MyVision-\MyVision V2.4\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+F:\MyVision-\MyVision V2.4\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+C:\Users\Administrator\Desktop\MyVision V2.7.1\000_exe\cam\Plugin.cameras.basler.dll
+C:\Users\Administrator\Desktop\MyVision V2.7.1\000_exe\cam\Plugin.cameras.basler.pdb
+C:\Users\Administrator\Desktop\MyVision V2.7.1\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyVision V2.7.1\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MyVision V2.7.1\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+C:\Users\Administrator\Desktop\MyVision V2.7.1\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V2.7.2\000_exe\cam\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision V2.7.2\000_exe\cam\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V2.7.2\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+E:\培训班项目\MyVision V2.7.2\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+E:\培训班项目\MyVision V2.7.2\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision V2.7.2\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V 3.0.0-B\000_exe\cam\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision V 3.0.0-B\000_exe\cam\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V 3.0.0-B\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+E:\培训班项目\MyVision V 3.0.0-B\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision V 3.0.0-B\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V 3.0.0-B\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+E:\培训班项目\MyVision V 3.0.1-A\000_exe\cam\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision V 3.0.1-A\000_exe\cam\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V 3.0.1-A\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+E:\培训班项目\MyVision V 3.0.1-A\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+E:\培训班项目\MyVision V 3.0.1-A\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+E:\培训班项目\MyVision V 3.0.1-A\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\000_exe\cam\Plugin.cameras.basler.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\000_exe\cam\Plugin.cameras.basler.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\000_exe\Plugins\Plugin.cameras.basler.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\000_exe\Plugins\Plugin.cameras.basler.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\000_exe\Plugins\Plugin.cameras.basler.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\000_exe\Plugins\Plugin.cameras.basler.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\000_exe\Plugins\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\000_exe\Plugins\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\000_exe\Plugins\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\000_exe\Plugins\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\000_exe\Plugins\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.cameras.basler.dll
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CoreCompileInputs.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\000_exe\Plugins\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\000_exe\Plugins\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\000_exe\Plugins\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\000_exe\Plugins\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csproj.CopyComplete
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\00 Exe\Camera\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\00 Exe\Camera\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\00 Exe\Camera\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\00 Exe\Camera\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.cameras.basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Plugins\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Plugins\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.2-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.2-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+E:\RexVision V 1.0.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+E:\RexVision V 1.0.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.2-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.3-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.3-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+E:\RexVision V 1.0.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+E:\RexVision V 1.0.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.3-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.6-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.6-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+E:\RexVision V 1.0.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+E:\RexVision V 1.0.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.6-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.9-A\00 Exe\Camera\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.9-A\00 Exe\Camera\Plugin.Cameras.Basler.pdb
+E:\RexVision V 1.0.9-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csprojAssemblyReference.cache
+E:\RexVision V 1.0.9-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.9-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.csproj.CopyComplete
+E:\RexVision V 1.0.9-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.dll
+E:\RexVision V 1.0.9-A\05 Camera\Plugin.cameras.basler\obj\Debug\Plugin.Cameras.Basler.pdb

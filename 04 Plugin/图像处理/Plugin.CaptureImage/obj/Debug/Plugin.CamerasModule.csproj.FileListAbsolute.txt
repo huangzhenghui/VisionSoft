@@ -1,0 +1,194 @@
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModuleForm.resources
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\000_exe\Plugins\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\000_exe\Plugins\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\00 Exe\Camera\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\00 Exe\Camera\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModuleForm.resources
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.3-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModuleForm.resources
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.2.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.3-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\MyVision V 3.3.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+I:\A-资料备份\A0-MyVision\RexVision V 1.0.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.2-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.2-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.3-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.3-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.6-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.6-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.7-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.7-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.7-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.8-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.8-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.9-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.0.9-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.0.9-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.1.0-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.1.0-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+C:\Users\Administrator\Desktop\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CopyComplete
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision V 1.1.0-A(1)\RexVision V 1.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision\RexVision V 1.1.1 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.1.1 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision\RexVision V 1.1.1 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.1.1 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.1.1 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision\RexVision V 1.1.1 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision\RexVision V 1.1.1 A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision\RexVision V 1.1.1 A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision\RexVision V 1.1.2 A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision\RexVision V 1.1.2 A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision\RexVision V 1.1.2 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.1.2 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision\RexVision V 1.1.2 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.1.2 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.1.2 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision\RexVision V 1.1.2 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb
+E:\RexVision\RexVision V 1.1.3 A\00 Exe\Plugins\Plugin.CamerasModule.dll
+E:\RexVision\RexVision V 1.1.3 A\00 Exe\Plugins\Plugin.CamerasModule.pdb
+E:\RexVision\RexVision V 1.1.3 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.1.3 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.CamerasModForm.resources
+E:\RexVision\RexVision V 1.1.3 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.1.3 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.1.3 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.dll
+E:\RexVision\RexVision V 1.1.3 A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.CamerasModule.pdb

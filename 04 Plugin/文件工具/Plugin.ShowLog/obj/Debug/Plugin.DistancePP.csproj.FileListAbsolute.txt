@@ -1,0 +1,11 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.DistancePP.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.DistancePP.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.DistancePPForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.dll
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\几何测量\Plugin.DistancePP\obj\Debug\Plugin.DistancePP.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.OCR.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.OCR.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.OCRForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.dll
+D:\VisionSoft\VisionSoft\04 Plugin\读码工具\Plugin.OCR\obj\Debug\Plugin.OCR.pdb

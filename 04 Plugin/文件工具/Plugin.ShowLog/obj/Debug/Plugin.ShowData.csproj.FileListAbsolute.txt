@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ShowData.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ShowData.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.ShowDataForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.dll
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.ShowData\obj\Debug\Plugin.ShowData.csproj.AssemblyReference.cache

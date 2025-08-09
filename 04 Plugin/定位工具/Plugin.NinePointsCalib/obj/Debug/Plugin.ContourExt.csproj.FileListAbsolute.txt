@@ -1,0 +1,11 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.csproj.AssemblyReference.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ContourExt.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ContourExt.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ContourExt\obj\Debug\Plugin.ContourExt.ContourExtForm.resources

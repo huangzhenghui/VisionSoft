@@ -1,0 +1,147 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO.Ports;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using VisionCore;
+
+namespace TSIVision.FrmConfigR
+{
+    /// <summary>
+    /// 委托
+    /// </summary>
+    /// <param name="commModel"></param>
+    public delegate void DgClearSerialPortParams(CommunicationModel commModel);
+
+    public partial class FrmSerialPortMenu : Form
+    {
+        #region 字段、属性
+
+        /// <summary>
+        /// 鼠标是否为左键
+        /// </summary>
+        private bool leftFlag;
+
+        /// <summary>
+        /// 鼠标移动位置变量
+        /// </summary>
+        private Point mouseOff;
+
+        /// <summary>
+        /// 声明委托
+        /// </summary>
+        public DgClearSerialPortParams dgClearSerialPortParams;
+
+        #endregion
+
+        #region 初始化
+
+        public FrmSerialPortMenu()
+        {
+            InitializeComponent();
+        }
+
+        #endregion
+
+        #region 方法-防止窗体闪烁
+
+        /// <summary>
+        /// 重写CreateParams方法，以防止窗体闪烁
+        /// </summary>
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams paras = base.CreateParams;
+                paras.ExStyle |= 0x02000000;
+                return paras;
+            }
+        }
+
+        #endregion
+
+        #region 事件-实现窗体移动功能
+
+        /// <summary>
+        /// 获取鼠标按下时坐标
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FrmCCamDebug_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                mouseOff = new Point(e.X, e.Y);//获得当前鼠标的坐标
+                leftFlag = true;
+            }
+        }
+
+        /// <summary>
+        /// 将窗体跟随鼠标移动
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FrmCCamDebug_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (leftFlag)
+            {
+                Point mouseSet = Control.MousePosition;//获得移动后鼠标的坐标
+                mouseSet.Offset(-mouseOff.X, -mouseOff.Y);//设置移动后的位置
+                Location = mouseSet;
+            }
+        }
+
+        /// <summary>
+        /// 鼠标抬起将标志位置为false
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FrmCCamDebug_MouseUp(object sender, MouseEventArgs e)
+        {
+            if (leftFlag)
+            {
+                leftFlag = false;
+            }
+        }
+
+        #endregion
+
+        #region 事件-按钮控件
+
+        /// <summary>
+        /// 工具栏按钮事件
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void btnToolBar_Click(object sender, EventArgs e)
+        {
+            dgClearSerialPortParams(CommunicationModel.SerialPort);
+            Hide();
+        }
+
+        #endregion
+
+        #region 事件-Timer控件
+
+        /// <summary>
+        /// 更新串口号信息
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            string[] serialPortNumAssem = SerialPort.GetPortNames();
+            foreach (string serialPortNum in serialPortNumAssem)
+            {
+                if (!cbxSerialPortNum.Items.Contains(serialPortNum)) cbxSerialPortNum.Items.Add(serialPortNum);
+            }
+        }
+
+        #endregion
+    }
+}

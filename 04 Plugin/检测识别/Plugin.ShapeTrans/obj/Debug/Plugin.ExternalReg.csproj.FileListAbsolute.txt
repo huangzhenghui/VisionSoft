@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ExternalReg.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ExternalReg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.ExternalRegForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ExternalReg\obj\Debug\Plugin.ExternalReg.pdb

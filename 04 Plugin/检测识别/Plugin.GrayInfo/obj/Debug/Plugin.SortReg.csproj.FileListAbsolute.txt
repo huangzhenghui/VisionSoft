@@ -1,0 +1,9 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SortReg.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SortReg.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.SortRegForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.SortReg\obj\Debug\Plugin.SortReg.pdb

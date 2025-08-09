@@ -1,0 +1,11 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.CreateModel.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.CreateModel.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.CreateModelForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.dll
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\定位工具\Plugin.CreateModel\obj\Debug\Plugin.CreateModel.csproj.AssemblyReference.cache

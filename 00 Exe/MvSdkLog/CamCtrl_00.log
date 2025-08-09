@@ -1,0 +1,127 @@
+[2022-05-22 01:27:54:0420] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:27:54:0868] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:27:54:0870] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:28:39:0063] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:28:41:0344] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:28:41:0345] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:32:50:0537] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:32:51:0002] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:32:51:0004] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:35:08:0480] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:35:30:0887] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:35:33:0365] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:36:10:0056] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:36:11:0868] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:36:11:0869] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:38:27:0324] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:38:27:0726] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:38:27:0727] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:38:36:0203] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:38:36:0636] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:38:36:0638] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:49:43:0082] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:49:43:0519] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:49:43:0521] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:49:56:0978] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [19963904]
+[2022-05-22 01:49:57:0005] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[24752]
+[2022-05-22 01:49:57:0005] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[29560]
+[2022-05-22 01:50:10:0179] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2022-05-22 01:50:10:0182] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2022-05-22 01:50:10:0210] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2022-05-22 01:50:11:0251] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:50:11:0595] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:11:0596] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:11:0607] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [19963904]
+[2022-05-22 01:50:11:0621] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[24504]
+[2022-05-22 01:50:11:0622] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[3972]
+[2022-05-22 01:50:26:0176] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2022-05-22 01:50:26:0201] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2022-05-22 01:50:26:0228] | CInterfaceManager.cpp-L1204: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2022-05-22 01:50:27:0307] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:50:27:0654] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:27:0656] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:28:0919] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 01:50:29:0261] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:29:0262] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:30:0022] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [19963904]
+[2022-05-22 01:50:30:0036] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[25656]
+[2022-05-22 01:50:30:0036] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[17516]
+[2022-05-22 01:50:36:0240] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2022-05-22 01:50:36:0271] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2022-05-22 01:50:56:0425] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(0)
+[2022-05-22 01:50:56:0848] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:56:0850] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:50:59:0105] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [19963904]
+[2022-05-22 01:50:59:0133] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[24740]
+[2022-05-22 01:50:59:0133] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[32048]
+[2022-05-22 01:54:01:0291] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2022-05-22 01:57:58:0098] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(0)
+[2022-05-22 01:57:58:0546] |         XmlParse.cpp-L2398: SetNodeValue [ExposureTime], [Value 0.000000 must be greater than or equal 46.000000. : OutOfRangeException thrown in node 'ExposureTime' while calling 'ExposureTime.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:57:58:0550] |         XmlParse.cpp-L2398: SetNodeValue [AcquisitionFrameRate], [Value 0.000000 must be greater than or equal 0.400000. : OutOfRangeException thrown in node 'AcquisitionFrameRate' while calling 'AcquisitionFrameRate.SetValue()' (file 'FloatT.h', line 85)]
+[2022-05-22 01:58:00:0675] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [19963904]
+[2022-05-22 01:58:00:0703] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[27556]
+[2022-05-22 01:58:00:0703] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[3444]
+[2022-05-22 02:12:58:0458] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:13:55:0004] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:13:56:0993] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:14:40:0830] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:15:02:0856] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 02:37:33:0112] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:37:33:0562] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 02:37:46:0793] | CInterfaceManager.cpp-L1065: remalloc RecvBuf succeed, [19963904]
+[2022-05-22 02:37:46:0818] | CInterfaceManager.cpp-L4168: Camctrl RecvThread Start, ThreadId[33480]
+[2022-05-22 02:37:46:0818] | CInterfaceManager.cpp-L3998: Camctrl DisplayThread Start, ThreadId[29176]
+[2022-05-22 02:37:53:0963] | CInterfaceManager.cpp-L4156: DisplayProcess exit
+[2022-05-22 02:37:54:0054] | CInterfaceManager.cpp-L4308: RecvThreadProcess exit
+[2022-05-22 02:43:05:0628] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:43:06:0070] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 02:51:20:0631] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:51:21:0091] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 02:52:35:0067] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:56:17:0436] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 02:56:17:0828] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 03:08:36:0160] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 03:08:36:0576] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 03:09:51:0755] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 03:09:52:0196] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 03:14:45:0489] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 03:14:45:0859] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 03:17:30:0759] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 03:17:31:0120] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 03:25:47:0522] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(0)
+[2022-05-22 03:25:47:0938] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 03:32:17:0202] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 03:32:17:0655] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 19:53:11:0156] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 19:53:11:0865] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 19:57:50:0587] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 19:57:51:0143] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 19:59:22:0561] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:04:05:0354] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:04:06:0003] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 20:04:31:0441] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:04:32:0043] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 20:10:31:0238] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:10:31:0888] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 20:10:58:0567] |         XmlParse.cpp-L2806: SetNodeValue [DeviceSerialNumber], [Node is not writable : AccessException thrown in node 'DeviceSerialNumber' while calling 'DeviceSerialNumber.SetValue()' (file 'StringT.h', line 61)]
+[2022-05-22 20:11:00:0348] |         XmlParse.cpp-L2085: SetNodeValue [GevCurrentIPAddress], [Node is not writable. : AccessException thrown in node 'GevCurrentIPAddress' while calling 'GevCurrentIPAddress.SetValue()' (file 'IntegerT.h', line 77)]
+[2022-05-22 20:19:56:0552] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:19:57:0179] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 20:20:33:0356] |         XmlParse.cpp-L2806: SetNodeValue [DeviceSerialNumber], [Node is not writable : AccessException thrown in node 'DeviceSerialNumber' while calling 'DeviceSerialNumber.SetValue()' (file 'StringT.h', line 61)]
+[2022-05-22 20:20:35:0563] |         XmlParse.cpp-L2085: SetNodeValue [GevCurrentIPAddress], [Node is not writable. : AccessException thrown in node 'GevCurrentIPAddress' while calling 'GevCurrentIPAddress.SetValue()' (file 'IntegerT.h', line 77)]
+[2022-05-22 20:20:40:0891] |         XmlParse.cpp-L2256: SetNodeValue [DeviceConnectionStatus], [Node is not writable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.SetIntValue()' (file 'EnumerationT.h', line 83)]
+[2022-05-22 20:21:36:0295] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:21:36:0949] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 20:23:06:0490] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:23:07:0129] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]
+[2022-05-22 20:23:28:0993] |         XmlParse.cpp-L2806: SetNodeValue [DeviceSerialNumber], [Node is not writable : AccessException thrown in node 'DeviceSerialNumber' while calling 'DeviceSerialNumber.SetValue()' (file 'StringT.h', line 61)]
+[2022-05-22 20:23:28:0994] |         XmlParse.cpp-L2085: SetNodeValue [GevCurrentIPAddress], [Node is not writable. : AccessException thrown in node 'GevCurrentIPAddress' while calling 'GevCurrentIPAddress.SetValue()' (file 'IntegerT.h', line 77)]
+[2022-05-22 20:23:29:0014] |         XmlParse.cpp-L2256: SetNodeValue [DeviceConnectionStatus], [Node is not writable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.SetIntValue()' (file 'EnumerationT.h', line 83)]
+[2022-05-22 20:23:31:0778] |         XmlParse.cpp-L2806: SetNodeValue [DeviceSerialNumber], [Node is not writable : AccessException thrown in node 'DeviceSerialNumber' while calling 'DeviceSerialNumber.SetValue()' (file 'StringT.h', line 61)]
+[2022-05-22 20:23:31:0778] |         XmlParse.cpp-L2085: SetNodeValue [GevCurrentIPAddress], [Node is not writable. : AccessException thrown in node 'GevCurrentIPAddress' while calling 'GevCurrentIPAddress.SetValue()' (file 'IntegerT.h', line 77)]
+[2022-05-22 20:23:31:0796] |         XmlParse.cpp-L2256: SetNodeValue [DeviceConnectionStatus], [Node is not writable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.SetIntValue()' (file 'EnumerationT.h', line 83)]
+[2022-05-22 20:23:33:0202] |         XmlParse.cpp-L2806: SetNodeValue [DeviceSerialNumber], [Node is not writable : AccessException thrown in node 'DeviceSerialNumber' while calling 'DeviceSerialNumber.SetValue()' (file 'StringT.h', line 61)]
+[2022-05-22 20:23:33:0202] |         XmlParse.cpp-L2085: SetNodeValue [GevCurrentIPAddress], [Node is not writable. : AccessException thrown in node 'GevCurrentIPAddress' while calling 'GevCurrentIPAddress.SetValue()' (file 'IntegerT.h', line 77)]
+[2022-05-22 20:23:33:0218] |         XmlParse.cpp-L2256: SetNodeValue [DeviceConnectionStatus], [Node is not writable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.SetIntValue()' (file 'EnumerationT.h', line 83)]
+[2022-05-22 20:24:13:0751] | CInterfaceManager.cpp-L4481: CamCtrl[2020006], GigE SDKVersion(1040006), DriverVersion(1040006)
+[2022-05-22 20:24:14:0121] |         XmlParse.cpp-L2176: SetNodeValue [DeviceConnectionStatus], [Node is not readable. : AccessException thrown in node 'DeviceConnectionStatus' while calling 'DeviceConnectionStatus.GetIntValue()' (file 'EnumerationT.h', line 131)]

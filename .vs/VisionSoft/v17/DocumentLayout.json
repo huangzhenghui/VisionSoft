@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|c:\\users\\administrator\\desktop\\visionsoft\\02 main\\visioncore\\solform\\toolr\\moduleflowitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\toolr\\moduleflowitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\frmmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\controlr\\moduleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\controlr\\moduleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\controlr\\moduleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\controlr\\moduleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\frmmodify.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\frmmodify.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\controlr\\solutionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\controlr\\solutionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\projsetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\projsetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\linkdataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\linkdataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\solsetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\solsetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 main\\visioncore\\solform\\formr\\solsetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D34FCD67-42E3-4D3A-89B7-65BC8416A550}|02 Main\\VisionCore\\VisionCore.csproj|solutionrelative:02 main\\visioncore\\solform\\formr\\solsetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModuleFlowItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ToolR\\ModuleFlowItem.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\ToolR\\ModuleFlowItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ToolR\\ModuleFlowItem.cs",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\ToolR\\ModuleFlowItem.cs",
+              "ViewState": "AQIAABwCAAAAAAAAAAAwwFECAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:31:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmModify.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:59.558Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmModify.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.Designer.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.Designer.cs",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:19:22.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmModify.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\FrmModify.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowEoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModuleFlow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:17:11.619Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleFlow.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\ControlR\\ModuleFlow.cs",
+              "ViewState": "AQIAAOAEAAAAAAAAAAA/wCoFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:17:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SolutionView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ControlR\\SolutionView.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\ControlR\\SolutionView.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\ControlR\\SolutionView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\ControlR\\SolutionView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:54.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjSetForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\ProjSetForm.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\ProjSetForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\ProjSetForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\ProjSetForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinkDataForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\LinkDataForm.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\LinkDataForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\LinkDataForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\LinkDataForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:52.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SolSetForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SolSetForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs",
+              "RelativeDocumentMoniker": "02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VisionSoft\\02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "02 Main\\VisionCore\\SolForm\\FormR\\SolSetForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:20:09.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

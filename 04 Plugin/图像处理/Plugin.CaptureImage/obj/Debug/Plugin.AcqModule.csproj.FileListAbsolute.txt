@@ -1,0 +1,253 @@
+E:\MyVision\Plugin\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojResolveAssemblyReference.cache
+E:\MyVision\Plugin\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+E:\MyVision\Plugin\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.Cache
+E:\MyVision\Plugin\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+E:\MyVision\Plugin\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+E:\MyVision\Plugin\Plugin.AcqModule.dll
+E:\MyVision\Plugin\Plugin.AcqModule.pdb
+E:\MyVision\Plugin\000_exe\Plugins\Plugin.AcqModule.dll
+E:\MyVision\Plugin\000_exe\Plugins\Plugin.AcqModule.pdb
+E:\MyVision\000_exe\Plugins\Plugin.AcqModule.dll
+E:\MyVision\000_exe\Plugins\Plugin.AcqModule.pdb
+E:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojResolveAssemblyReference.cache
+E:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+E:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.Cache
+E:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+E:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision\000_exe\Plugins\Plugin.AcqModule.dll
+E:\培训班项目\MyVision\000_exe\Plugins\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+E:\培训班项目\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.Cache
+E:\培训班项目\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+E:\培训班项目\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.4\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.4\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.1\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.1\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.1\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.Properties.Resources.resources
+F:\MyVision-\MyVision V2.7.2\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.2\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision V2.7.2\000_exe\Plugins\Plugin.AcqModule.dll
+E:\培训班项目\MyVision V2.7.2\000_exe\Plugins\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+E:\培训班项目\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+E:\培训班项目\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+E:\培训班项目\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+E:\培训班项目\MyVision V2.7.2\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.4----\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+C:\Users\Administrator\Desktop\MyVision V2.7.4\000_exe\Plugins\Plugin.AcqModule.dll
+C:\Users\Administrator\Desktop\MyVision V2.7.4\000_exe\Plugins\Plugin.AcqModule.pdb
+C:\Users\Administrator\Desktop\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+C:\Users\Administrator\Desktop\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+C:\Users\Administrator\Desktop\MyVision V2.7.4\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.6\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.6\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.6\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.7\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.7\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.7\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.8\000_exe\Plugins\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.8\000_exe\Plugins\Plugin.AcqModule.pdb
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+F:\MyVision-\MyVision V2.7.8\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision V 3.0.0-B\000_exe\Plugins\Plugin.AcqModule.dll
+E:\培训班项目\MyVision V 3.0.0-B\000_exe\Plugins\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision V 3.0.0-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+E:\培训班项目\MyVision V 3.0.0-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+E:\培训班项目\MyVision V 3.0.0-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+E:\培训班项目\MyVision V 3.0.0-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+E:\培训班项目\MyVision V 3.0.0-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+E:\培训班项目\MyVision V 3.0.0-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision V 3.0.1-A\000_exe\Plugins\Plugin.AcqModule.dll
+E:\培训班项目\MyVision V 3.0.1-A\000_exe\Plugins\Plugin.AcqModule.pdb
+E:\培训班项目\MyVision V 3.0.1-A\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+E:\培训班项目\MyVision V 3.0.1-A\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+E:\培训班项目\MyVision V 3.0.1-A\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+E:\培训班项目\MyVision V 3.0.1-A\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+E:\培训班项目\MyVision V 3.0.1-A\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+E:\培训班项目\MyVision V 3.0.1-A\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\000_exe\Plugins\Plugin.AcqModule.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\000_exe\Plugins\Plugin.AcqModule.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.3-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\000_exe\Plugins\Plugin.AcqModule.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\000_exe\Plugins\Plugin.AcqModule.pdb
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+J:\A-MyProfile\A0-MyVision\MyVision V 3.0.4-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.5-B\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.0.8-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.3-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.4-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.AcqModule.dll
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\000_exe\Plugins\Plugin.AcqModule.pdb
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.5-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\000_exe\Plugins\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\000_exe\Plugins\Plugin.AcqModule.pdb
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+I:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\000_exe\Plugins\Plugin.AcqModule.dll
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\000_exe\Plugins\Plugin.AcqModule.pdb
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CoreCompileInputs.cache
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+H:\A-MyProfile\A0-MyVision\MyVision V 3.1.6-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\000_exe\Plugins\Plugin.AcqModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\000_exe\Plugins\Plugin.AcqModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.0-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\000_exe\Plugins\Plugin.AcqModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\000_exe\Plugins\Plugin.AcqModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.1-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\000_exe\Plugins\Plugin.AcqModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\000_exe\Plugins\Plugin.AcqModule.pdb
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csprojAssemblyReference.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.AcqModuleForm.resources
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.GenerateResource.cache
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.csproj.CopyComplete
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.dll
+K:\A-MyProfile\A0-MyVision\MyVision V 3.2.2-A\04 Plugin\图像采集\Plugin.AcqModule\obj\Debug\Plugin.AcqModule.pdb

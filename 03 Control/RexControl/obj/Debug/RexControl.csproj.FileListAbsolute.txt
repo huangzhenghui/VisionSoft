@@ -1,0 +1,1499 @@
+E:\RexVision\RexVision V 1.2.7 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.2.7 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.2.7 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.2.8 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.2.8 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.2.8 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.2.9 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.2.9 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.2.9 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.1 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.3.1 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.3.1 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.3.4 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.3.4 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.3.4 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.3.5 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.3.5 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.3.5 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.3.6 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.3.6 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.3.6 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.3.7 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.3.7 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.3.7 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.3.8 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.3.8 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.3.8 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+G:\四连杆改造\RexVision V 1.4.0 A\00 Exe\RexControl.dll
+G:\四连杆改造\RexVision V 1.4.0 A\00 Exe\RexControl.pdb
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.dll
+G:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+I:\四连杆改造\RexVision V 1.4.0 A\00 Exe\RexControl.dll
+I:\四连杆改造\RexVision V 1.4.0 A\00 Exe\RexControl.pdb
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.dll
+I:\四连杆改造\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\00 Exe\RexControl.dll
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\00 Exe\RexControl.pdb
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.dll
+I:\四连杆改造\RexVision V 1.4.1 A\RexVision V 1.4.0 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+G:\Z-四连杆改造\RexVision V 1.5.0 A\00 Exe\RexControl.dll
+G:\Z-四连杆改造\RexVision V 1.5.0 A\00 Exe\RexControl.pdb
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.dll
+G:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+I:\Z-四连杆改造\RexVision V 1.5.0 A\00 Exe\RexControl.dll
+I:\Z-四连杆改造\RexVision V 1.5.0 A\00 Exe\RexControl.pdb
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.dll
+I:\Z-四连杆改造\RexVision V 1.5.0 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+I:\Z-四连杆改造\RexVision V 1.5.2 A\00 Exe\RexControl.dll
+I:\Z-四连杆改造\RexVision V 1.5.2 A\00 Exe\RexControl.pdb
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.dll
+I:\Z-四连杆改造\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+I:\RexVision V 1.5.2 A\00 Exe\RexControl.dll
+I:\RexVision V 1.5.2 A\00 Exe\RexControl.pdb
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.dll
+I:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision V 1.5.2 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+G:\RexVision V 1.5.2 A\00 Exe\RexControl.dll
+G:\RexVision V 1.5.2 A\00 Exe\RexControl.pdb
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.dll
+G:\RexVision V 1.5.2 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+F:\RexVision V 1.6.0 A\00 Exe\RexControl.dll
+F:\RexVision V 1.6.0 A\00 Exe\RexControl.pdb
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.dll
+F:\RexVision V 1.6.0 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+I:\四连杆改造\RexVision V 1.6.1 A\00 Exe\RexControl.dll
+I:\四连杆改造\RexVision V 1.6.1 A\00 Exe\RexControl.pdb
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csprojAssemblyReference.cache
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.dll
+I:\四连杆改造\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\RexControl.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\00 Exe\RexControl.pdb
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\RexVision\RexVision\培训外售\RexVision V 1.6.1 A\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Users\lvtu\Desktop\RVision 20220422\00 Exe\RexControl.dll
+C:\Users\lvtu\Desktop\RVision 20220422\00 Exe\RexControl.pdb
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Users\lvtu\Desktop\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\RexControl.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\00 Exe\RexControl.pdb
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Users\MTS\Desktop\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Users\MTS\Desktop\VM2\RVision 20220422\00 Exe\RexControl.dll
+C:\Users\MTS\Desktop\VM2\RVision 20220422\00 Exe\RexControl.pdb
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Users\MTS\Desktop\VM2\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Vision\5.06\1\VM\RVision 20220422\00 Exe\RexControl.dll
+C:\Vision\5.06\1\VM\RVision 20220422\00 Exe\RexControl.pdb
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Vision\5.06\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Vision\5.10\1\VM\RVision 20220422\00 Exe\RexControl.dll
+C:\Vision\5.10\1\VM\RVision 20220422\00 Exe\RexControl.pdb
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Vision\5.10\1\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Vision\5.11\2\VM\RVision 20220422\00 Exe\RexControl.dll
+C:\Vision\5.11\2\VM\RVision 20220422\00 Exe\RexControl.pdb
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Vision\5.11\2\VM\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\备份\6.02\4\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\备份\6.02\4\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\备份\6.02\4\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\备份\6.13\2\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\备份\6.13\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\备份\6.23\1 - 副本\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\备份\6.24\2\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\备份\6.24\2\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCombox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UserControl1.resources
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\备份\6.24\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\备份\6.25\1\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\备份\6.25\1\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CComboBox.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\备份\6.25\1\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\00 Exe\RexControl.dll
+D:\备份\7.01\2\VisionSoft\RVision 20220422\00 Exe\RexControl.pdb
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\备份\7.01\2\VisionSoft\RVision 20220422\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\VisionSoft\VisionSoft\00 Exe\RexControl.dll
+D:\VisionSoft\VisionSoft\00 Exe\RexControl.pdb
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MsgForm.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyComboBox.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDown.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.DropControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDownD.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTimePicker.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyTimeItem.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\RexControl.dll
+D:\MyDevelopment\VisionSoft\VisionSoft\00 Exe\RexControl.pdb
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MsgForm.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyComboBox.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDown.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.DropControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDownD.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTimePicker.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyTimeItem.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.pdb
+D:\MyDevelopment\VisionSoft\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\VisionSoft\00 Exe\RexControl.dll
+D:\BaiduNetdiskDownload\VisionSoft\00 Exe\RexControl.pdb
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MsgForm.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyComboBox.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDown.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.DropControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDownD.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTimePicker.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyTimeItem.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.dll
+D:\BaiduNetdiskDownload\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\RexControl.dll
+C:\Users\Administrator\Desktop\VisionSoft\00 Exe\RexControl.pdb
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MsgForm.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyComboBox.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDown.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.DropControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDownD.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTimePicker.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyTimeItem.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.dll
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.pdb
+C:\Users\Administrator\Desktop\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.Up2Date
+E:\VisionSoft\00 Exe\RexControl.dll
+E:\VisionSoft\00 Exe\RexControl.pdb
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.AssemblyReference.cache
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCBtnExt.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CCheckBox.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCCheckBox.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumeric.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CNumericUpDown.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CRadioBox.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.FormUI.Text.CLikeText.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.CTextBox.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MsgForm.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyComboBox.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyLinkData.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDown.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.DropControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTextBoxUpDownD.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MyControls.MyTimePicker.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\Rex.UI.MyTimeItem.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.Properties.Resources.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ChangeFormatControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MeanImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MedianImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GaussImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayErosionControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.GrayDilationControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.MirrorImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.OpeningControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ClosingControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.EmphaSizeControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.IlluminateControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.RotateImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ScaleImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.InvertImageControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.ThresholdControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.TransFromRgbControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.VarThresholdControl.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.UCNumTextBox.resources
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.GenerateResource.cache
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CoreCompileInputs.cache
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.csproj.CopyComplete
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.dll
+E:\VisionSoft\03 Control\RexControl\obj\Debug\RexControl.pdb

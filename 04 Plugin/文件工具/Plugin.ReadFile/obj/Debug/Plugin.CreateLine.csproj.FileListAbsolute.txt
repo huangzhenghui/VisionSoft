@@ -1,0 +1,11 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.CreateLine.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.CreateLine.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.CreateLineForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.dll
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\几何构建\Plugin.CreateLine\obj\Debug\Plugin.CreateLine.csproj.AssemblyReference.cache

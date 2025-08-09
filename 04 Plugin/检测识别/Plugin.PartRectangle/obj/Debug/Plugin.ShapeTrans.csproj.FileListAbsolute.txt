@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ShapeTrans.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.ShapeTrans.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.ShapeTransForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.dll
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\检测识别\Plugin.ShapeTrans\obj\Debug\Plugin.ShapeTrans.csproj.AssemblyReference.cache

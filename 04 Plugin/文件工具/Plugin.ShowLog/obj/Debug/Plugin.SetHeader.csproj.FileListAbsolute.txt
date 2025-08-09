@@ -1,0 +1,10 @@
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\log4net.config
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SetHeader.dll
+D:\VisionSoft\VisionSoft\00 Exe\Plugins\Plugin.SetHeader.pdb
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.SetHeaderForm.resources
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.Properties.Resources.resources
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.csproj.GenerateResource.cache
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.csproj.CoreCompileInputs.cache
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.csproj.CopyComplete
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.dll
+D:\VisionSoft\VisionSoft\04 Plugin\文件工具\Plugin.SetHeader\obj\Debug\Plugin.SetHeader.pdb
